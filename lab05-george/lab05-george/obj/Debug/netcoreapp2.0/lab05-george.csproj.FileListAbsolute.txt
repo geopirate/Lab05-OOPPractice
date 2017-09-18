@@ -1,0 +1,11 @@
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\bin\Debug\netcoreapp2.0\lab05george.deps.json
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\bin\Debug\netcoreapp2.0\lab05george.runtimeconfig.json
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\bin\Debug\netcoreapp2.0\lab05george.runtimeconfig.dev.json
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\bin\Debug\netcoreapp2.0\lab05george.dll
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\bin\Debug\netcoreapp2.0\lab05george.pdb
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\obj\Debug\netcoreapp2.0\lab05-george.csprojResolveAssemblyReference.cache
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\obj\Debug\netcoreapp2.0\lab05-george.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\obj\Debug\netcoreapp2.0\lab05-george.AssemblyInfoInputs.cache
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\obj\Debug\netcoreapp2.0\lab05-george.AssemblyInfo.cs
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\obj\Debug\netcoreapp2.0\lab05george.dll
+C:\Users\Georg\source\repos\Lab05-OOPPractice\lab05-george\lab05-george\obj\Debug\netcoreapp2.0\lab05george.pdb
