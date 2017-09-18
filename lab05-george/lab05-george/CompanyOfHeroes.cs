@@ -8,7 +8,7 @@ namespace lab05george
     {
         // this is the constructor from the base class
         // it interacts with the title method also passed from the base class
-        public CompanyOfHeroes(string title) : base(title) { }
+        internal CompanyOfHeroes(string title) : base(title) { }
         // implements Races and seals it so derived classes can't change this
         internal sealed override void Scale() => Console.WriteLine("a smaller squad based scale.");
         // just a local method

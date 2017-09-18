@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Georg\\.nuget\\packages\\": {},
+    "C:\\Users\\georg\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georg\\source\\repos\\Lab05-OOPPractice\\lab05-george\\lab05-george\\lab05-george.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\Source\\Repos\\Lab05-OOPPractice\\lab05-george\\lab05-george\\lab05-george.csproj",
       "projectName": "lab05-george",
-      "projectPath": "C:\\Users\\Georg\\source\\repos\\Lab05-OOPPractice\\lab05-george\\lab05-george\\lab05-george.csproj",
-      "packagesPath": "C:\\Users\\Georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georg\\source\\repos\\Lab05-OOPPractice\\lab05-george\\lab05-george\\obj\\",
+      "projectPath": "C:\\Users\\georg\\Source\\Repos\\Lab05-OOPPractice\\lab05-george\\lab05-george\\lab05-george.csproj",
+      "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\georg\\Source\\Repos\\Lab05-OOPPractice\\lab05-george\\lab05-george\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

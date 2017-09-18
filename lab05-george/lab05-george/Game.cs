@@ -8,7 +8,7 @@ namespace lab05george
         // this variable is encapsulated and passed down
         private string ThisTitle { get; set; }
         // this constructor sets the title of the object
-        public Game(string title)
+        internal Game(string title)
         {
             ThisTitle = title;
         }

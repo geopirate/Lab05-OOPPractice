@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace lab05george
 {
@@ -8,7 +6,7 @@ namespace lab05george
     {
         // this is the constructor from the base class
         // it interacts with the title method also passed from the base class
-        public AshesOfTheSingularity(string title) : base(title) { }
+        internal AshesOfTheSingularity(string title) : base(title) { }
         // implements Races and seals it so derived classes can't change this
         internal sealed override void Scale() => Console.WriteLine("a larger epic scale.");
         // just a local method

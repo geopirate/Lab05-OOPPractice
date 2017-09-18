@@ -1,7 +1,7 @@
 ﻿How long did it take you to complete this assignment?
-I worked about 2 hours over the weekend
+I worked about 2 hours over the weekend and 3 hours on monday
 What did you struggle with? Why? How did you solve?
-Mostly just planning.  This time I made my diagram before writing code.
+Mostly just planning.  This time I made my diagram before writing code.  Then drew a diagram on the whiteboard.
 What did you learn during this assignment?
 I learned more about the interactions of permissions and constructors.
 What resources did you utilize for this assingment?

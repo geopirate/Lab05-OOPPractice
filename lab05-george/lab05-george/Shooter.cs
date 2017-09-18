@@ -9,9 +9,11 @@ namespace lab05george
     abstract class Shooter : Game
     {
         //This is just passing through
-        public Shooter(string title) : base(title){}
+        internal Shooter(string title) : base(title){}
         // implements Genre and seals it so derived classes can't change this
-        internal override sealed void Genre() => Console.Write("  This is a first person shooter.");
+        internal override sealed void Genre() => Console.Write(
+            "  This is a first person shooter, ");
         // abstract class that has to be implemented in derived classes
+        internal abstract void Ammo();
     }
 }
